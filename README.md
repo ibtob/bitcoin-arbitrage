@@ -1,5 +1,7 @@
 # bitcoin-arbitrage - opportunity detector and automated trading
 
+Haobtc搬砖套利程序（python开源）
+
 It gets order books from supported exchanges and calculate arbitrage
 opportunities between each markets. It takes market depth into account.
 
